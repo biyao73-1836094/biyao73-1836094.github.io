@@ -1,0 +1,9 @@
+.rubik {
+    float: right;
+    border: 10px solid;
+}
+
+.hugebuilding {
+    border: 10px solid;
+    border-radius: 25px;
+}
