@@ -1,9 +1,36 @@
 .rubik {
     float: right;
     border: 10px solid;
+    height: 50px;
+    width: 50px;
 }
 
 .hugebuilding {
     border: 10px solid;
     border-radius: 25px;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
 }
+
+.paragraph {
+    font-size: 20px;
+    color: red;
+    text-shadow: 2px 2px;
+    border: 10px solid;
+    border-style: dashed;;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
